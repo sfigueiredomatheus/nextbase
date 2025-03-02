@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* TO CONVERT NEW HEX TO OKLCH: https://oklch.com/ */
+@theme {
+  --color-primary: oklch(43.18% 0.0865 166.91);
+  --color-secondary: oklch(76.86% 0.1647 70.08);
+}
